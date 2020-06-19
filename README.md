@@ -26,4 +26,4 @@ ls` to compile
 
 ### Inspiration
 
-The way lisp languages take in input theoretically has the ability to eliminate any subroutines of syntax detection. I.e. 
+The way LISP languages take in input theoretically has the ability to eliminate any subroutines of syntax detection. In other words, programming a new language that follows the rules of the original LISP would be no more complex than adding new operations to a polish notation calculator. This is why the concept of one of these enternained me this much.
