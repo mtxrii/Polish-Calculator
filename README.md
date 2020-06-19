@@ -22,3 +22,8 @@ Download/clone all files and run `gcc -std=c99 -Wall parsing.c mpc.c -o calculat
 ls` to compile
 
 (assumes you have gcc compiler installed)
+
+
+### Inspiration
+
+The way lisp languages take in input theoretically has the ability to eliminate any subroutines of syntax detection. I.e. 
